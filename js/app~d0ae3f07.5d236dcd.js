@@ -323,7 +323,7 @@
                     [t._v("Vital Rust")]
                   ),
                   s("p", { staticClass: "text-gray-300 mt-2" }, [
-                    t._v("Vital Rust © " + t._s(new Date().getFullYear())),
+                    t._v("Better Omegle © " + t._s(new Date().getFullYear())),
                   ]),
                 ]),
                 s(
