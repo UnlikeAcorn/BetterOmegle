@@ -206,21 +206,21 @@
                 { staticClass: "mt-48", attrs: { youtube: "u0oMI2Z6mpc" } },
                 [
                   n("h1", { staticClass: "text-5xl text-white feature-font" }, [
-                    e._v("Vital 10x"),
+                    e._v("Coming Soon Filler"),
                   ]),
                   n("p", { staticClass: "text-primary-400 mt-6" }, [
                     e._v(
-                      "With our recent release of our 10x servers we have seen an insane 1600 rocket raid by ZERK clan! "
+                      " Filler text 1 "
                     ),
                     n("br"),
                     n("br"),
                     e._v(
-                      " Our 10x server is a very unique server in the modded community as we grant everyone access to the quality of life plugins like BGrade, Furnace Splitter, Auto Doors and SkinBox for free! "
+                      " Filler text 2 "
                     ),
                     n("br"),
                     n("br"),
                     e._v(
-                      " Our objective with the 10x servers is to create the perfect server that doesn't promote endless pay to win... unlike others..."
+                      " Filler text 3"
                     ),
                   ]),
                   n(
