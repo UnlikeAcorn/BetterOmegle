@@ -25,11 +25,11 @@
                         staticClass:
                           "feature-font text-white text-4xl sm:text-6xl md:text-7xl lg:text-8xl",
                       },
-                      [t._v("Where the best of rust are competing")]
+                      [t._v("Coming Soon! by UnlikeAcorn Last Update April 16 2022")]
                     ),
                     a("p", { staticClass: "text-primary-400 mt-10" }, [
                       t._v(
-                        "Join us to experience some of the biggest raids from the biggest clans in Rust."
+                        "This site is currently being worked on for more information or to get in contact with me click the discord below"
                       ),
                     ]),
                     a(
