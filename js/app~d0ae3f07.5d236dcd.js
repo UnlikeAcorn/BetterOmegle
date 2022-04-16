@@ -63,7 +63,7 @@
                               large: "",
                               block: "",
                               redirect: "",
-                              href: "https://www.tiktok.com/@vitalrustofficial",
+                              href: "https://www.tiktok.com/@betteromegle",
                             },
                           },
                           [t._v("TikTok")]
@@ -346,7 +346,7 @@
                           "a",
                           {
                             staticClass: "text-gray-300",
-                            attrs: { href: "https://discord.gg/vital" },
+                            attrs: { href: "https://discord.gg/fPXDuKfH7y" },
                           },
                           [
                             s("app-icon", {
@@ -364,7 +364,7 @@
                           {
                             staticClass: "text-gray-300",
                             attrs: {
-                              href: "https://twitter.com/playvitalrust",
+                              href: "https://twitter.com/BetterOmegle",
                             },
                           },
                           [
@@ -383,7 +383,7 @@
                           {
                             staticClass: "text-gray-300",
                             attrs: {
-                              href: "https://www.tiktok.com/@vitalrustofficial",
+                              href: "https://www.tiktok.com/@betteromegle",
                             },
                           },
                           [
@@ -402,7 +402,7 @@
                           {
                             staticClass: "text-gray-300",
                             attrs: {
-                              href: "https://www.youtube.com/channel/UCcjygHqq4b0-kgRC7ygXGYA/featured",
+                              href: "https://www.youtube.com/channel/UCCpTSEBoH71tlLkRApdVm4g",
                             },
                           },
                           [
