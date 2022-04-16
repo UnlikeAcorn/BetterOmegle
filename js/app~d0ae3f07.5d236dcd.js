@@ -49,7 +49,7 @@
                               large: "",
                               block: "",
                               redirect: "",
-                              href: "https://discord.gg/vital",
+                              href: "https://discord.gg/fPXDuKfH7y",
                             },
                           },
                           [t._v("Discord")]
