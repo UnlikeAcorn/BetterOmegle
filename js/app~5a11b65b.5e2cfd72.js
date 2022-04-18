@@ -277,11 +277,11 @@
                 },
                 [
                   n("h1", { staticClass: "text-5xl text-white feature-font" }, [
-                    e._v("Unwritten's Raid Defense"),
+                    e._v("Comming Soon!"),
                   ]),
                   n("p", { staticClass: "text-primary-400 mt-6" }, [
                     e._v(
-                      "This video perfectly captures what Vital is all about. Large raids, large amounts of action, and putting it all out on the line to defend your base and everything in it against all odds."
+                      "Filler Text."
                     ),
                   ]),
                   n("div", { staticClass: "mt-8" }),
@@ -294,7 +294,7 @@
                         redirect: "",
                       },
                     },
-                    [e._v("Unwritten's YouTube Channel")]
+                    [e._v("Filler Text")]
                   ),
                 ],
                 1
