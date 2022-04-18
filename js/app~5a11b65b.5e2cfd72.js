@@ -313,11 +313,11 @@
                       n(
                         "h1",
                         { staticClass: "text-5xl text-white feature-font" },
-                        [e._v("Dinling and his vital progression")]
+                        [e._v("Comming Soon!")]
                       ),
                       n("p", { staticClass: "text-primary-400 mt-6" }, [
                         e._v(
-                          'Dinling is a leader of the clan "OT" on Vital Main - He is also a community member and content creator. We choose exemplary members of our community whom showcase and capture exactly what Vital Rust is all about.'
+                          'Filler Text.'
                         ),
                       ]),
                       n("div", { staticClass: "mt-8" }),
@@ -330,7 +330,7 @@
                             redirect: "",
                           },
                         },
-                        [e._v("Dinling's YouTube Channel")]
+                        [e._v("Filler Text")]
                       ),
                     ],
                     1
