@@ -235,11 +235,11 @@
                     {
                       attrs: {
                         icon: "fab steam",
-                        href: "steam://connect/us-10x.vitalrust.com:28035",
+                        href: "https://unlikeacorn.com/",
                         redirect: "",
                       },
                     },
-                    [e._v("US 10x")]
+                    [e._v("Filler 1")]
                   ),
                   n(
                     "app-button",
@@ -247,11 +247,11 @@
                       staticClass: "ml-4",
                       attrs: {
                         icon: "fab steam",
-                        href: "steam://connect/eu-10x.vitalrust.com:28035",
+                        href: "https://unlikeacorn.com/",
                         redirect: "",
                       },
                     },
-                    [e._v("EU 10x")]
+                    [e._v("Filler 2")]
                   ),
                   n(
                     "app-button",
@@ -259,11 +259,11 @@
                       staticClass: "ml-4",
                       attrs: {
                         icon: "fab steam",
-                        href: "steam://connect/au-10x.vitalrust.com:28035",
+                        href: "https://unlikeacorn.com/",
                         redirect: "",
                       },
                     },
-                    [e._v("AU 10x")]
+                    [e._v("Filler 3")]
                   ),
                 ],
                 1
