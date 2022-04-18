@@ -203,7 +203,7 @@
               n("landing-hero"),
               n(
                 "landing-video-text",
-                { staticClass: "mt-48", attrs: { youtube: "u0oMI2Z6mpc" } },
+                { staticClass: "mt-48", attrs: { youtube: "AuIifzyzWkE" } },
                 [
                   n("h1", { staticClass: "text-5xl text-white feature-font" }, [
                     e._v("Coming Soon Filler"),
@@ -273,7 +273,7 @@
                 "landing-video-text",
                 {
                   staticClass: "mt-48",
-                  attrs: { flip: "", youtube: "y5Xbx3DAkM0", start: 18 },
+                  attrs: { flip: "", youtube: "AuIifzyzWkE", start: 18 },
                 },
                 [
                   n("h1", { staticClass: "text-5xl text-white feature-font" }, [
@@ -290,7 +290,7 @@
                     {
                       attrs: {
                         icon: "fab youtube",
-                        href: "https://www.youtube.com/channel/UCA6aUAFP0MXdablYfNcK9-A",
+                        href: "https://www.youtube.com/channel/UCU-J2vOThrGveDYZGxNpv8g",
                         redirect: "",
                       },
                     },
@@ -307,7 +307,7 @@
                     "landing-video-text",
                     {
                       staticClass: "py-24",
-                      attrs: { youtube: "0UOiC8Fr0FQ", start: 1946 },
+                      attrs: { youtube: "AuIifzyzWkE", start: 1946 },
                     },
                     [
                       n(
@@ -326,7 +326,7 @@
                         {
                           attrs: {
                             icon: "fab youtube",
-                            href: "https://www.youtube.com/channel/UCxd1fcnzQRtrHQFfchCDtVQ",
+                            href: "https://www.youtube.com/channel/UCU-J2vOThrGveDYZGxNpv8g",
                             redirect: "",
                           },
                         },
