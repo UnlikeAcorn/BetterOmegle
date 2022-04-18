@@ -317,7 +317,7 @@
                       staticClass:
                         "feature-font text-primary-400 text-3xl mt-4",
                     },
-                    [t._v("Vital Rust")]
+                    [t._v("Better Omegle")]
                   ),
                   s("p", { staticClass: "text-gray-300 mt-2" }, [
                     t._v("Better Omegle © " + t._s(new Date().getFullYear())),
