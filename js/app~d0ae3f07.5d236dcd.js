@@ -25,7 +25,7 @@
                         staticClass:
                           "feature-font text-white text-4xl sm:text-6xl md:text-7xl lg:text-8xl",
                       },
-                      [t._v("Coming Soon! by UnlikeAcorn Last Update April 16 2022")]
+                      [t._v("Coming Soon! by UnlikeAcorn Last Update April 18 2022")]
                     ),
                     a("p", { staticClass: "text-primary-400 mt-10" }, [
                       t._v(
