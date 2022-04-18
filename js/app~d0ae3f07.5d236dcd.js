@@ -742,12 +742,12 @@
                 {
                   title: "Store",
                   icon: "gem",
-                  href: "https://store.vitalrust.com",
+                  href: "https://unlikeacorn.com/",
                 },
                 {
                   title: "Stats",
                   icon: "chart-line",
-                  href: "https://aimlab.gg/rust/servers",
+                  href: "https://unlikeacorn.com/",
                 },
               ],
               steamAuthUrl:
