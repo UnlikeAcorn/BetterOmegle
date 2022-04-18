@@ -932,7 +932,7 @@
                 ]),
                 a("p", { staticClass: "mt-6 text-primary-400 md:w-2/3" }, [
                   t._v(
-                    "Wanting to get a head of the queue? Visit our store to view all of our perks available for purchases."
+                    "Filler Text."
                   ),
                 ]),
                 a("div", { staticClass: "mt-8" }),
@@ -958,7 +958,7 @@
           name: "landing-VIP",
           data: function () {
             return {
-              storeUrl: "https://store.vitalrust.com",
+              storeUrl: "https://unlikeacorn.com/",
               packages: [
                 {
                   title: "Queue Skip",
