@@ -29,7 +29,7 @@
                     ),
                     a("p", { staticClass: "text-primary-400 mt-10" }, [
                       t._v(
-                        "This site is currently being worked on for more information or to get in contact with me click the discord below"
+                        "This site is currently being worked on for more information or to get in contact with me click the discord below. Note: All buttons and features will change and dont work example: link accounts store login etc will not work."
                       ),
                     ]),
                     a(
