@@ -492,8 +492,8 @@
                     case 0:
                       if (
                         ((document.title = t.meta.title
-                          ? "Vital Rust — " + t.meta.title
-                          : "Vital Rust"),
+                          ? "Better Omegle — " + t.meta.title
+                          : "Better Omegle"),
                         (a = k["b"].getters["user/loggedIn"]),
                         void 0 !== a ||
                           (!t.meta.requiresAuth && !t.meta.checkAuth))
